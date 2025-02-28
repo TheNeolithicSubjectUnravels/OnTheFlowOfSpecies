@@ -1,0 +1,15 @@
+### Skref 2: Útdráttur á Lykilhugtökum (Íslenska)  
+- **Samvinna**: Að vinna saman að sameiginlegum markmiðum eða hagsmunum.  
+- **Sanngirni**: Hugmyndin um að koma fram við einstaklinga af réttlæti og jafnræði.  
+- **Óeigingjörn Refising**: Að refsa fyrir brot á samfélagslegum viðmiðum þrátt fyrir eigin kostnað.  
+- **Þróunarlíkan**: Fræðilegt módel sem skýrir þróun samvinnu og refsilosta með náttúruvali.  
+- **Almenningsgóðaspil**: Tilraunalegt spil þar sem þátttakendur ákveða framlag í sameiginlegan sjóð.  
+- **Hámörkun Nytja**: Sú tilhneiging að taka ákvarðanir sem hámarka eigin hagnað.  
+- **Sjálfhverfar Óskir**: Óskir sem byggja eingöngu á eigin hagsmunum.  
+- **Aðrir-Hverfar Óskir**: Óskir sem taka tillit til velferðar annarra.  
+- **Óhagstæð Misréttisfælni**: Tilhneiging til að bregðast við neikvæðum ójöfnuði þar sem einstaklingur fær minna en aðrir.  
+- **Takmörkuð Skynsemi**: Hugtak sem lýsir því hvernig ákvarðanataka er takmörkuð af upplýsingum og vitsmunalegum getu.  
+- **Náttúruval**: Þróunarferli þar sem eiginleikar sem bæta lífslíkur og æxlun verða algengari.  
+- **Menningarþróun**: Breyting og miðlun hegðunar og viðmiða milli kynslóða.  
+- **Raunprófun**: Að staðfesta fræðilega spá með raunverulegum eða tilraunagögnum.  
+- **Þróun Stefnu**: Aðlögun hegðunar og ákvarðana yfir tíma í gegnum samkeppni og val.  

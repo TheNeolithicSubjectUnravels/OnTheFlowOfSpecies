@@ -1,0 +1,7 @@
+### Step 1: Identify Sections (English)  
+- **Section 1: Introduction to Cooperation, Fairness, and Altruistic Punishment** (Paragraph 1–7)  
+- **Section 2: The Model - General Framework and Public Goods Game** (Paragraph 8–20)  
+- **Section 3: Evolutionary Dynamics and Strategy Analysis** (Paragraph 21–35)  
+- **Section 4: Empirical Validation of the Theory** (Paragraph 36–45)  
+- **Section 5: Evolutionary Dominance of Other-Regarding Preferences** (Paragraph 46–55)  
+- **Section 6: Discussion and Conclusion** (Paragraph 56–65)  

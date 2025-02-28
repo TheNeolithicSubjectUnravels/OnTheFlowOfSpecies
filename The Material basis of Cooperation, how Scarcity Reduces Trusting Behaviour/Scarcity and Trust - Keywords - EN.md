@@ -1,0 +1,15 @@
+### Step 2: Extract Keywords (English)  
+- **Trusting behaviour:** The willingness to invest in cooperation despite uncertainty about reciprocation.  
+- **Food scarcity:** Limited access to sufficient food, often seasonal, impacting economic and social behaviour.  
+- **Lean season:** The period before harvest when food stocks are low, leading to increased scarcity.  
+- **Trust game:** An experimental economic game used to measure trust and cooperation.  
+- **Singida region:** A semi-arid area in central Tanzania where the study was conducted.  
+- **Scarcity mindset:** A psychological state where individuals under scarcity focus on immediate trade-offs.  
+- **Crop farming:** Agriculture-dependent livelihoods, significantly affecting food availability.  
+- **Pre-harvest period:** The phase before harvesting when scarcity is highest.  
+- **Post-harvest period:** The time after harvesting when food supply and economic conditions improve.  
+- **Ingroup vs. outgroup:** The distinction between those within the same community (ingroup) and outsiders (outgroup).  
+- **Randomized experiment:** A study design where subjects are randomly assigned conditions to infer causal relationships.  
+- **Economic cooperation:** The ability of individuals or communities to work together for mutual benefit.  
+- **Instrumental variables:** A method used in econometrics to establish causal relationships.  
+- **Risk aversion:** The tendency to avoid uncertain outcomes, relevant to trusting behaviour.  

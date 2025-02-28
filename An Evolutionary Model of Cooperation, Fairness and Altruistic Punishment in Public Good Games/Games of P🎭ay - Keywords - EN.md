@@ -1,0 +1,15 @@
+### Step 2: Extract Keywords (English)  
+- **Cooperation**: The act of working together for mutual benefit, especially in social and economic contexts.  
+- **Fairness**: The principle of treating individuals equitably and justly, often linked to social norms and economic models.  
+- **Altruistic Punishment**: A behavior where individuals punish norm violators at a personal cost without direct material benefit.  
+- **Evolutionary Model**: A theoretical framework explaining the development of cooperative and punitive behaviors over time through natural selection.  
+- **Public Goods Game**: An experimental game where participants decide on contributions to a collective resource, often used to study cooperation.  
+- **Utility Maximization**: The principle that individuals make decisions to achieve the highest possible benefit.  
+- **Self-Regarding Preferences**: Preferences driven purely by personal benefit rather than considering others' welfare.  
+- **Other-Regarding Preferences**: Preferences that account for the well-being and interests of others.  
+- **Disadvantageous Inequity Aversion**: A tendency to react negatively to unfair situations where one receives less than others.  
+- **Bounded Rationality**: The concept that decision-making is limited by cognitive constraints and available information.  
+- **Natural Selection**: The evolutionary process where traits that enhance survival and reproduction become more common in a population.  
+- **Cultural Evolution**: The transmission and modification of behaviors and norms across generations.  
+- **Empirical Validation**: The process of confirming theoretical predictions with real-world or experimental data.  
+- **Strategy Evolution**: The way behaviors and decision-making strategies adapt over time through competition and selection.  

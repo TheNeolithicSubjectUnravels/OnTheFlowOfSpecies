@@ -1,0 +1,15 @@
+### Skref 2: Útdráttur á Lykilhugtökum (Íslenska)  
+- **Trausthegðun:** Vilji til að fjárfesta í samvinnu þrátt fyrir óvissu um endurgjald.  
+- **Matarskortur:** Takmarkað aðgengi að nægum mat, oft árstíðabundið, sem hefur áhrif á efnahagslega og félagslega hegðun.  
+- **Magurtímabil:** Tímabil fyrir uppskeru þar sem matvælabirgðir eru litlar og skortur eykst.  
+- **Traustleikur:** Tilraunaaðferð í hagfræði sem metur traust og samvinnu.  
+- **Singida-hérað:** Hálfþurrt svæði í Mið-Tansaníu þar sem rannsóknin var framkvæmd.  
+- **Skortshugarfar:** Sálfræðilegt ástand þar sem einstaklingar undir skorti einblína á skammtímalausnir.  
+- **Ræktun jarðyrkju:** Lífsviðurværi byggt á landbúnaði sem hefur mikil áhrif á fæðuframboð.  
+- **Fyrir-uppskerutímabil:** Tímabil áður en uppskera á sér stað, þegar skortur er mestur.  
+- **Eftir-uppskerutímabil:** Tímabil eftir uppskeru þegar fæðuframboð og efnahagsleg skilyrði batna.  
+- **Innhópur vs. úthópur:** Aðgreining milli einstaklinga í sama samfélagi (innhópur) og utanaðkomandi aðila (úthópur).  
+- **Slembitilraun:** Tilraunahönnun þar sem þátttakendur eru slembiúthlutaðir aðstæðum til að greina orsakir.  
+- **Efnahagsleg samvinna:** Geta einstaklinga eða samfélaga til að vinna saman til gagnkvæms ávinnings.  
+- **Tæki breytur:** Aðferð í hagfræði til að greina orsakasambönd.  
+- **Áhættufælni:** Tilhneiging til að forðast óviss útkoma, sem tengist trausthegðun.  
