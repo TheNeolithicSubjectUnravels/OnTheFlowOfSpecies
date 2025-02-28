@@ -1,6 +1,6 @@
 # Cognitive Learning Showcase Repository
 
-This project is focused on creating structured learning materials for three *open source* papers: *"The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour"* and *"An Evolutionary Model of Cooperation%2C Fairness and Altruistic Punishment in Public Good Games."* It includes keywords, chunks and summaries, and note-taking files to facilitate learning.
+This project is focused on creating structured learning materials for three *open source* papers: *"The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour"* and *"An Evolutionary Model of Cooperation, Fairness and Altruistic Punishment in Public Good Games."* It includes keywords, chunks and summaries, and note-taking files to facilitate learning.
 
 ## Index
 - [Structure](#structure)
@@ -26,8 +26,8 @@ Note taking files in the following sections for the two papers were generated [i
   - *Note-taking files:* 
 	- [🌍 English MarkDown](./The%20Material%20basis%20of%20Cooperation%2C%20how%20Scarcity%20Reduces%20Trusting%20Behaviour/Scarcity%20and%20Trust%20-%20Notes%20-%20EN.md) | [🔥❄️ Icelandic MarkDown](./The%20Material%20basis%20of%20Cooperation%2C%20how%20Scarcity%20Reduces%20Trusting%20Behaviour/Skortur%20og%20Traust%20-%20Notes%20-%20IS.md) | [🌍 English PDF](./The%20Material%20basis%20of%20Cooperation%2C%20how%20Scarcity%20Reduces%20Trusting%20Behaviour/Scarcity%20and%20Trust%20-%20Notes%20-%20EN.pdf) | [🔥❄️ Icelandic PDF](./The%20Material%20basis%20of%20Cooperation%2C%20how%20Scarcity%20Reduces%20Trusting%20Behaviour/Skortur%20og%20Traust%20-%20Notes%20-%20IS.pdf)
 
-- **An Evolutionary Model of Cooperation%2C Fairness and Altruistic Punishment in Public Good Games**
-  - Contains note-taking files, keyword lists, chunked keyword lists, and summaries related to the paper [*"An Evolutionary Model of Cooperation%2C Fairness and Altruistic Punishment in Public Good Games"*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077041) by Moritz Hetzer, Didier Sornette.
+- **An Evolutionary Model of Cooperation, Fairness and Altruistic Punishment in Public Good Games**
+  - Contains note-taking files, keyword lists, chunked keyword lists, and summaries related to the paper [*"An Evolutionary Model of Cooperation, Fairness and Altruistic Punishment in Public Good Games"*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0077041) by Moritz Hetzer, Didier Sornette.
   - *Keywords:* 
 	- [🌍 English MarkDown](./An%20Evolutionary%20Model%20of%20Cooperation%2C%20Fairness%20and%20Altruistic%20Punishment%20in%20Public%20Good%20Games/Games%20of%20P🎭ay%20-%20Keywords%20-%20EN.md) | [🔥❄️ Icelandic MarkDown](./An%20Evolutionary%20Model%20of%20Cooperation%2C%20Fairness%20and%20Altruistic%20Punishment%20in%20Public%20Good%20Games/Almenningsleikir%20-%20Keywords%20-%20IS.md) | [🌍 English PDF](./An%20Evolutionary%20Model%20of%20Cooperation%2C%20Fairness%20and%20Altruistic%20Punishment%20in%20Public%20Good%20Games/Games%20of%20P🎭ay%20-%20Keywords%20-%20EN.pdf) | [🔥❄️ Icelandic PDF](./An%20Evolutionary%20Model%20of%20Cooperation%2C%20Fairness%20and%20Altruistic%20Punishment%20in%20Public%20Good%20Games/Almenningsleikir%20-%20Keywords%20-%20IS.pdf)
   - *Chunks:* 
@@ -88,7 +88,7 @@ Contributions are welcome! Feel free to submit issues or pull requests for corre
 
 - Direct references:
 	- Gustav Agneman, Paolo Falco, Exaud Joel, Onesmo Selejio, The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour, The Economic Journal, Volume 133, Issue 652, May 2023, Pages 1265–1285, https://doi.org/10.1093/ej/ueac087
-	- Hetzer M, Sornette D (2013) An Evolutionary Model of Cooperation%2C Fairness and Altruistic Punishment in Public Good Games. PLoS ONE 8(11): e77041. https://doi.org/10.1371/journal.pone.0077041
+	- Hetzer M, Sornette D (2013) An Evolutionary Model of Cooperation, Fairness and Altruistic Punishment in Public Good Games. PLoS ONE 8(11): e77041. https://doi.org/10.1371/journal.pone.0077041
 
 ## Contact
 
