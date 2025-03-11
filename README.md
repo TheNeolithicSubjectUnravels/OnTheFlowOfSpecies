@@ -1,6 +1,8 @@
 # Cognitive Learning Showcase Repository
 
-This project is focused on creating structured learning materials for three *open source* papers: *"The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour"* and *"An Evolutionary Model of Cooperation, Fairness and Altruistic Punishment in Public Good Games."* It includes keywords, chunks and summaries, and note-taking files to facilitate learning.
+This project focuses on creating structured learning materials for two *open-source* papers: *"The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour"* and *"An Evolutionary Model of Cooperation, Fairness and Altruistic Punishment in Public Good Games"*. 
+
+It includes keywords, keyword chunks (*the keywords grouped into meaningful categories*), summaries, and note-taking files, along with potential usage guidelines, to facilitate learning, study and memorization.
 
 ## Index
 - [Structure](#structure)
@@ -8,12 +10,10 @@ This project is focused on creating structured learning materials for three *ope
 - [Potential Learning Workflow](#potential-learning-workflow)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
+- [License](#license)
 - [Contact](#contact)
 
 ## Structure
-
-Note taking files in the following sections for the two papers were generated [in this ChatGPT conversion](https://chatgpt.com/share/67901f3e-9484-8012-b371-19b7f08e1d2c).
-
 
 - **The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour**
   - Contains note-taking files, keyword lists, chunked keyword lists, and summaries related to the paper [*"The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour"*](https://academic.oup.com/ej/article/133/652/1265/6855224) by Gustav Agneman, Paolo Falco, Exaud Joel, Onesmo Selejio.
@@ -39,7 +39,7 @@ Note taking files in the following sections for the two papers were generated [i
 
 
 - [**Prompts file**](./Prompts.md)  
-  - Contains the prompts (*ísl. kveikjur* ✨) used to generate information, including keywords, chunks, summaries, and note-taking files.  
+  - Contains the ChatGPT prompts (*ísl. kveikjur* ✨) used to generate information, including keywords, chunks, summaries, and note-taking files.  
   - These prompts may require further refinement to fully generate the files in this repository, but they demonstrate their potential.
 
 
@@ -89,6 +89,16 @@ Contributions are welcome! Feel free to submit issues or pull requests for corre
 - Direct references:
 	- Gustav Agneman, Paolo Falco, Exaud Joel, Onesmo Selejio, The Material basis of Cooperation: how Scarcity Reduces Trusting Behaviour, The Economic Journal, Volume 133, Issue 652, May 2023, Pages 1265–1285, https://doi.org/10.1093/ej/ueac087
 	- Hetzer M, Sornette D (2013) An Evolutionary Model of Cooperation, Fairness and Altruistic Punishment in Public Good Games. PLoS ONE 8(11): e77041. https://doi.org/10.1371/journal.pone.0077041
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+The full terms of the license can also be found in the [LICENSE](LICENSE) file.
+
+Although this license requires attribution, the authors do not intend to enforce attribution unless significant portions of material derived from the source papers referenced in this repository are used in future derivative works.
+
+[![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
 
 ## Contact
 
